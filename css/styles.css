@@ -11,6 +11,9 @@ body{
   background-color: #222831;
   color: white;
 }
+#contact{
+  margin-bottom: -16px;
+}
 .sideimage{
   width: 70%;
   margin-left: 19%;
@@ -459,6 +462,12 @@ margin: 3% 11%;
 }
 table{
       margin-left: 5%;
+}
+.Jag-img {
+    margin-left: 8%;
+}
+.jag-text {
+    margin-left: 5%;
 }
 }
 @media screen and (min-width: 767px) and (max-width : 991px)
